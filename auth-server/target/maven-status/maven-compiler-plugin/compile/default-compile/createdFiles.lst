@@ -1,0 +1,5 @@
+ru\CreditClub\microservices\GlobalMethodSecurityConfiguration.class
+ru\CreditClub\microservices\ResourceServerConfiguration.class
+ru\CreditClub\microservices\Application.class
+ru\CreditClub\microservices\JwtConfiguration.class
+ru\CreditClub\microservices\CustomerConfiguration.class
